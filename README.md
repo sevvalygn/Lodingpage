@@ -44,4 +44,3 @@ python3 -m http.server 8080
 - HTML5
 - Tailwind CSS (CDN)
 - Google Fonts (Inter)
-
